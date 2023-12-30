@@ -13,6 +13,7 @@ Visualization of Architecture Implementation:
 Link: https://circuitverse.org/users/142873/projects/project-isa_moonwalk
 
 Parity Assembly Program:  par.txt
+
 ![image](https://github.com/FenixVu442/ECE366-Project-MoonWalk-ISA/assets/104748038/f1360b37-6d70-4d3d-90a3-02eaaaf588ee)
 
 
