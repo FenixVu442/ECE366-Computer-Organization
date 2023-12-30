@@ -1,7 +1,11 @@
 Name: Manh Vu Bui
+
 Class: ECE366 - Computer Organization
+
 Instructor: Prof. Rao Wenjing
+
 Project: MoonWalk: 16-bit ISA with 8-bit Instructions for the Parity Array Program
+
 Environment: Python, Circuit-Verse
 
 Visualization of Architecture Implementation:
